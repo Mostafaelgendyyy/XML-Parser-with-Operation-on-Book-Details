@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Catalogue>
+                                                                                                                                
+    
+    
+        
+    
+    
+        
+    
+    
+    
+    
+            
+    
+
+    
+    
+    
+        
+    
+    
+    
+        
+    
+    
+    
+        
+    
+    
+    
+        
+    
+    
+    
+        
+    
+    
+    
+    
+            
+    
+    
+    
+    
+            
+    
+    
+    
+    
+            
+    
+    
+    
+    
+            
+    
+    
+    
+    
+    
+    
+        
+    
+    
+    
+        
+    
+    
+    
+        
+    
+    
+    
+    
+            
+    
+    
+    
+    
+            
+    
+    
+    
+    
+            
+    
+    
+    
+    
+            
+
+
+
+    
+    
+    
+        
+    
+    
+            
+    
+    
+    
+            
+
+
+
+    
+    
+    
+        
+    
+    
+            
+    
+    
+    
+            
+
+
+
+    <Book ID="BK101">
+        <Author>da</Author>
+        <Title>fsd</Title>
+        <Genre>science</Genre>
+        <Price>45.2</Price>
+        <Publish_Date>2001-09-07</Publish_Date>
+        <Description>asdf</Description>
+    </Book>
+    <Book ID="BK009">
+        <Author>df</Author>
+        <Title>rf</Title>
+        <Genre>fiction</Genre>
+        <Price>78.0</Price>
+        <Publish_Date>2001-07-09</Publish_Date>
+        <Description>dfsfgsdg</Description>
+    </Book>
+    <Book ID="BK105">
+        <Author>fsa</Author>
+        <Title>hff</Title>
+        <Genre>fiction</Genre>
+        <Price>73.256</Price>
+        <Publish_Date>2001-04-21</Publish_Date>
+        <Description>sfdfghg</Description>
+    </Book>
+    <Book ID="BK103">
+        <Author>sd</Author>
+        <Title>sdf</Title>
+        <Genre>science</Genre>
+        <Price>78.0</Price>
+        <Publish_Date>2001-04-21</Publish_Date>
+        <Description>fsfa</Description>
+    </Book>
+</Catalogue>
